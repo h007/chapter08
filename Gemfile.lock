@@ -24,7 +24,6 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (1.0.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rake (11.2.2)
@@ -40,7 +39,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.2.1)
-  minima
   rake
 
 RUBY VERSION
